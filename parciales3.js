@@ -101,7 +101,7 @@ const quizdata=[
       },
   {
     question:"En relación a la diáfisis femoral (señale la afirmación correcta):",
-    options:["Posee un borde anterior rugoso", "Posee un borde posterior rugoso.", "Posee una cara posterior lisa.", "Ningún músculo se inserta en su superficie."],
+    options:["Posee un borde anterior rugoso", "Posee un borde posterior rugoso", "Posee una cara posterior lisa.", "Ningún músculo se inserta en su superficie."],
     answer:"Posee un borde posterior rugoso",
     category:1
   },
@@ -114,7 +114,7 @@ const quizdata=[
     {
       question:"¿Cómo se denomina de modo genérico a las articulaciones semi móvil?",
       options:["anfiartrosis", "diartrosis", "artrosis", "sinartrosis"],
-      answer:"sinartrosis",
+      answer:"anfiartrosis",
       category:1
     },
     {
@@ -131,7 +131,7 @@ const quizdata=[
     },
     {
       question:"¿Cuáles son los músculos infrahioideos?",
-      options:["Músculos Esternocleidohioideo, omohioideo, tirohioideo y esternotiroideo.", "Músculos Esternocleidomastoideo,tirohioideo y esternotiroideo", "Músculos Tirohioideo,  esternotiroideo, esternocleidomastoideo y rectoanterior", "Músculos Esternocleidohioideo, omohioideo, esternocleidomastoideo y rectoanterior."],
+      options:["Músculos Esternocleidohioideo, omohioideo, tirohioideo y esternotiroideo", "Músculos Esternocleidomastoideo,tirohioideo y esternotiroideo", "Músculos Tirohioideo,  esternotiroideo, esternocleidomastoideo y rectoanterior", "Músculos Esternocleidohioideo, omohioideo, esternocleidomastoideo y rectoanterior."],
       answer:"Músculos Esternocleidohioideo, omohioideo, tirohioideo y esternotiroideo",
       category:1
     },
@@ -240,7 +240,7 @@ const quizdata=[
           {
             question:"Con respecto al pectoral menor, marque la opción correcta:",
             options:["Se extiende desde la tercera y cuarta costilla hasta la apófisis coracoides", "Cuando se toma su punto fijo en las costillas, sube el muñón del hombro.", "Forma parte del plano superficial junto con el pectoral mayor", "Esta situado por debajo del subclavio del cual queda separado por un espacio denominado espacio clavipectoral."],
-            answer:"Esta situado por debajo del subclavio del cual queda separado por  un espacio denominado espacio clavipectoral.",
+            answer:"Esta situado por debajo del subclavio del cual queda separado por un espacio denominado espacio clavipectoral.",
             category:1
           },
           {
