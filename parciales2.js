@@ -150,7 +150,7 @@ const quizdata=[
       {
         question:"¿Cuáles son las inserciones laterales del omohioideo?",
         options:["Clavícula", "Hioides", "Acrómion", "Cerca de la escotadura coracoidea"],
-        answer:"Cerca de la escotadura coracoideax",
+        answer:"Cerca de la escotadura coracoidea",
         category:1
       },
       {
@@ -162,7 +162,7 @@ const quizdata=[
       {
           question:"Marque la opción correcta.",
           options:["El etmoides forma parte de la fosa craneal anterior.", "El lobulo frontal del cerebro apoya sobre la porción vertical del frontal", "El ala mayor del esfenoides forma parte de la fosa craneal posterior", "El occipital forma parte de la fosa craneal media"],
-          answer:" El etmoides forma parte de la fosa craneal anterior.",
+          answer:"El etmoides forma parte de la fosa craneal anterior.",
           category:1
         },
         {
@@ -192,7 +192,7 @@ const quizdata=[
           {
             question:"¿Dónde se localiza el ligamento amarillo?",
             options:["Entre las apófisis espinosas", "Entre los cuerpos vertebrales", "Entre las apófisis transversas", "Entre las láminas vertebrales"],
-            answer:"Entre las laminas vertebrales",
+            answer:"Entre las láminas vertebrales",
             category:1
           },
           {
@@ -216,7 +216,7 @@ const quizdata=[
             {
               question:"¿Cuáles son las inserciones superiores del trapecio?",
               options:["Arco posterior del atlas", " Línea semicircular inferior del occipital", "Protuberancia occipital interna", "Línea semicircular superior del occipital"],
-              answer:" Línea semicircular superior del occipital",
+              answer:"Línea semicircular superior del occipital",
               category:1
             },
         {
@@ -227,7 +227,7 @@ const quizdata=[
         },
         {
             question:"La clavícula es un ejemplo de hueso:",
-            options:["Plano", "Corto", " Largo", "Sesamoideos"],
+            options:["Plano", "Corto", "Largo", "Sesamoideos"],
             answer:"Largo",
             category:1
           },
@@ -276,7 +276,7 @@ const quizdata=[
             {
               question:"Uno de los siguientes elementos de encuentra en el espacio cubito carpiano:",
               options:["Ligamento triangular", "Arteria cubital", "Ligamento anular", "Ligamento cuadrado"],
-              answer:"x",
+              answer:"Ligamento triangular",
               category:1
             }
             
